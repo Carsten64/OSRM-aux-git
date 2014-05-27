@@ -1,0 +1,3 @@
+# Hashes of file build rules.
+ff63c657581cf2b90caebeb1258a37a4 CMakeFiles/UUIDConfigure
+e2859258d83fd0fb5de7cc03e64cf4b3 Util/UUID.cpp

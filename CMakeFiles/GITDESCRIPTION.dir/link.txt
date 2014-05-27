@@ -1,0 +1,2 @@
+/usr/bin/ar cr libGITDESCRIPTION.a  CMakeFiles/GITDESCRIPTION.dir/Util/GitDescription.cpp.o
+/usr/bin/ranlib libGITDESCRIPTION.a

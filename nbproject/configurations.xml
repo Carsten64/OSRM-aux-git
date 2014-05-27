@@ -1,0 +1,313 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<configurationDescriptor version="94">
+  <logicalFolder name="root" displayName="root" projectFiles="true" kind="ROOT">
+    <df root="." name="0">
+      <df name="Algorithms">
+        <in>DouglasPeucker.cpp</in>
+        <in>PolylineCompressor.cpp</in>
+      </df>
+      <df name="Contractor">
+        <in>EdgeBasedGraphFactory.cpp</in>
+        <in>GeometryCompressor.cpp</in>
+        <in>TemporaryStorage.cpp</in>
+      </df>
+      <df name="DataStructures">
+        <in>Coordinate.cpp</in>
+        <in>HilbertValue.cpp</in>
+        <in>RestrictionMap.cpp</in>
+        <in>RouteParameters.cpp</in>
+        <in>SearchEngineData.cpp</in>
+      </df>
+      <df name="Descriptors">
+        <in>DescriptionFactory.cpp</in>
+      </df>
+      <df name="Extractor">
+        <in>BaseParser.cpp</in>
+        <in>ExtractionContainers.cpp</in>
+        <in>ExtractorCallbacks.cpp</in>
+        <in>PBFParser.cpp</in>
+        <in>ScriptingEnvironment.cpp</in>
+        <in>XMLParser.cpp</in>
+      </df>
+      <df name="Library">
+        <in>OSRM_impl.cpp</in>
+      </df>
+      <df name="Server">
+        <df name="Http">
+          <in>Reply.cpp</in>
+        </df>
+        <in>Connection.cpp</in>
+        <in>RequestHandler.cpp</in>
+        <in>RequestParser.cpp</in>
+      </df>
+      <df name="Tools">
+        <in>components.cpp</in>
+        <in>io-benchmark.cpp</in>
+        <in>simpleclient.cpp</in>
+        <in>unlock_all_mutexes.cpp</in>
+      </df>
+      <df name="Util">
+        <in>GitDescription.cpp</in>
+        <in>UUID.cpp</in>
+      </df>
+      <df name="win">
+        <in>getopt.c</in>
+      </df>
+      <in>datastore.cpp</in>
+      <in>extractor.cpp</in>
+      <in>prepare.cpp</in>
+      <in>routed.cpp</in>
+    </df>
+    <logicalFolder name="ExternalFiles"
+                   displayName="Important Files"
+                   projectFiles="false"
+                   kind="IMPORTANT_FILES_FOLDER">
+      <itemPath>CMakeLists.txt</itemPath>
+      <itemPath>Makefile</itemPath>
+    </logicalFolder>
+  </logicalFolder>
+  <sourceFolderFilter>^(nbproject)$</sourceFolderFilter>
+  <sourceRootList>
+    <Elem>.</Elem>
+  </sourceRootList>
+  <projectmakefile>Makefile</projectmakefile>
+  <confs>
+    <conf name="Default" type="0">
+      <toolsSet>
+        <compilerSet>GNU|GNU</compilerSet>
+        <dependencyChecking>false</dependencyChecking>
+        <rebuildPropChanged>false</rebuildPropChanged>
+      </toolsSet>
+      <flagsDictionary>
+        <element flagsID="0" commonFlags="-fPIC -std=c++11"/>
+      </flagsDictionary>
+      <codeAssistance>
+      </codeAssistance>
+      <makefileType>
+        <makeTool>
+          <buildCommandWorkingDir>.</buildCommandWorkingDir>
+          <buildCommand>${MAKE} -f Makefile</buildCommand>
+          <cleanCommand>${MAKE} -f Makefile clean</cleanCommand>
+          <executablePath>osrm-routed</executablePath>
+          <cTool>
+            <standard>10</standard>
+          </cTool>
+          <ccTool>
+            <standard>8</standard>
+          </ccTool>
+        </makeTool>
+      </makefileType>
+      <item path="Algorithms/DouglasPeucker.cpp" ex="false" tool="1" flavor2="8">
+      </item>
+      <item path="Algorithms/PolylineCompressor.cpp" ex="false" tool="1" flavor2="8">
+      </item>
+      <item path="Contractor/EdgeBasedGraphFactory.cpp"
+            ex="false"
+            tool="1"
+            flavor2="8">
+      </item>
+      <item path="Contractor/GeometryCompressor.cpp" ex="false" tool="1" flavor2="8">
+      </item>
+      <item path="Contractor/TemporaryStorage.cpp" ex="false" tool="1" flavor2="8">
+      </item>
+      <item path="DataStructures/Coordinate.cpp" ex="false" tool="1" flavor2="8">
+      </item>
+      <item path="DataStructures/HilbertValue.cpp" ex="false" tool="1" flavor2="8">
+      </item>
+      <item path="DataStructures/RestrictionMap.cpp" ex="false" tool="1" flavor2="8">
+      </item>
+      <item path="DataStructures/RouteParameters.cpp" ex="false" tool="1" flavor2="8">
+      </item>
+      <item path="DataStructures/SearchEngineData.cpp"
+            ex="false"
+            tool="1"
+            flavor2="8">
+      </item>
+      <item path="Descriptors/DescriptionFactory.cpp" ex="false" tool="1" flavor2="8">
+      </item>
+      <item path="Extractor/BaseParser.cpp" ex="false" tool="1" flavor2="8">
+      </item>
+      <item path="Extractor/ExtractionContainers.cpp" ex="false" tool="1" flavor2="8">
+      </item>
+      <item path="Extractor/ExtractorCallbacks.cpp" ex="false" tool="1" flavor2="8">
+      </item>
+      <item path="Extractor/PBFParser.cpp" ex="false" tool="1" flavor2="8">
+      </item>
+      <item path="Extractor/ScriptingEnvironment.cpp" ex="false" tool="1" flavor2="8">
+      </item>
+      <item path="Extractor/XMLParser.cpp" ex="false" tool="1" flavor2="8">
+      </item>
+      <item path="Library/OSRM_impl.cpp" ex="false" tool="1" flavor2="8">
+      </item>
+      <item path="Server/Connection.cpp" ex="false" tool="1" flavor2="8">
+      </item>
+      <item path="Server/Http/Reply.cpp" ex="false" tool="1" flavor2="8">
+      </item>
+      <item path="Server/RequestHandler.cpp" ex="false" tool="1" flavor2="8">
+      </item>
+      <item path="Server/RequestParser.cpp" ex="false" tool="1" flavor2="8">
+      </item>
+      <item path="Tools/components.cpp" ex="false" tool="1" flavor2="4">
+      </item>
+      <item path="Tools/io-benchmark.cpp" ex="false" tool="1" flavor2="4">
+      </item>
+      <item path="Tools/simpleclient.cpp" ex="false" tool="1" flavor2="4">
+      </item>
+      <item path="Tools/unlock_all_mutexes.cpp" ex="false" tool="1" flavor2="4">
+      </item>
+      <item path="Util/GitDescription.cpp" ex="false" tool="1" flavor2="8">
+      </item>
+      <item path="Util/UUID.cpp" ex="false" tool="1" flavor2="8">
+      </item>
+      <item path="datastore.cpp" ex="false" tool="1" flavor2="8">
+        <ccTool flags="0">
+          <incDir>
+            <pElem>Include</pElem>
+            <pElem>/usr/include/lua5.2</pElem>
+            <pElem>/usr/include/libxml2</pElem>
+            <pElem>/usr/include/luabind</pElem>
+            <pElem>/usr/include/osmpbf</pElem>
+          </incDir>
+        </ccTool>
+      </item>
+      <item path="extractor.cpp" ex="false" tool="1" flavor2="8">
+        <ccTool flags="0">
+          <incDir>
+            <pElem>Include</pElem>
+            <pElem>/usr/include/lua5.2</pElem>
+            <pElem>/usr/include/libxml2</pElem>
+            <pElem>/usr/include/luabind</pElem>
+            <pElem>/usr/include/osmpbf</pElem>
+          </incDir>
+        </ccTool>
+      </item>
+      <folder path="0/Algorithms">
+        <ccTool>
+          <incDir>
+            <pElem>Include</pElem>
+            <pElem>/usr/include/lua5.2</pElem>
+            <pElem>/usr/include/libxml2</pElem>
+            <pElem>/usr/include/luabind</pElem>
+            <pElem>/usr/include/osmpbf</pElem>
+            <pElem>.</pElem>
+          </incDir>
+        </ccTool>
+      </folder>
+      <folder path="0/Contractor">
+        <ccTool>
+          <incDir>
+            <pElem>Include</pElem>
+            <pElem>/usr/include/lua5.2</pElem>
+            <pElem>/usr/include/libxml2</pElem>
+            <pElem>/usr/include/luabind</pElem>
+            <pElem>/usr/include/osmpbf</pElem>
+            <pElem>.</pElem>
+          </incDir>
+        </ccTool>
+      </folder>
+      <folder path="0/DataStructures">
+        <ccTool>
+          <incDir>
+            <pElem>Include</pElem>
+            <pElem>/usr/include/lua5.2</pElem>
+            <pElem>/usr/include/libxml2</pElem>
+            <pElem>/usr/include/luabind</pElem>
+            <pElem>/usr/include/osmpbf</pElem>
+            <pElem>.</pElem>
+          </incDir>
+        </ccTool>
+      </folder>
+      <folder path="0/Descriptors">
+        <ccTool>
+          <incDir>
+            <pElem>Include</pElem>
+            <pElem>/usr/include/lua5.2</pElem>
+            <pElem>/usr/include/libxml2</pElem>
+            <pElem>/usr/include/luabind</pElem>
+            <pElem>/usr/include/osmpbf</pElem>
+            <pElem>.</pElem>
+          </incDir>
+        </ccTool>
+      </folder>
+      <folder path="0/Extractor">
+        <ccTool>
+          <incDir>
+            <pElem>Include</pElem>
+            <pElem>/usr/include/lua5.2</pElem>
+            <pElem>/usr/include/libxml2</pElem>
+            <pElem>/usr/include/luabind</pElem>
+            <pElem>/usr/include/osmpbf</pElem>
+            <pElem>.</pElem>
+          </incDir>
+        </ccTool>
+      </folder>
+      <folder path="0/Library">
+        <ccTool>
+          <incDir>
+            <pElem>Include</pElem>
+            <pElem>/usr/include/lua5.2</pElem>
+            <pElem>/usr/include/libxml2</pElem>
+            <pElem>/usr/include/luabind</pElem>
+            <pElem>/usr/include/osmpbf</pElem>
+            <pElem>.</pElem>
+          </incDir>
+        </ccTool>
+      </folder>
+      <folder path="0/Server">
+        <ccTool>
+          <incDir>
+            <pElem>Include</pElem>
+            <pElem>/usr/include/lua5.2</pElem>
+            <pElem>/usr/include/libxml2</pElem>
+            <pElem>/usr/include/luabind</pElem>
+            <pElem>/usr/include/osmpbf</pElem>
+            <pElem>.</pElem>
+          </incDir>
+        </ccTool>
+      </folder>
+      <folder path="0/Tools">
+        <ccTool>
+          <incDir>
+            <pElem>win</pElem>
+          </incDir>
+        </ccTool>
+      </folder>
+      <folder path="0/Util">
+        <ccTool>
+          <incDir>
+            <pElem>Include</pElem>
+            <pElem>/usr/include/lua5.2</pElem>
+            <pElem>/usr/include/libxml2</pElem>
+            <pElem>/usr/include/luabind</pElem>
+            <pElem>/usr/include/osmpbf</pElem>
+            <pElem>.</pElem>
+          </incDir>
+        </ccTool>
+      </folder>
+      <item path="prepare.cpp" ex="false" tool="1" flavor2="8">
+        <ccTool flags="0">
+          <incDir>
+            <pElem>Include</pElem>
+            <pElem>/usr/include/lua5.2</pElem>
+            <pElem>/usr/include/libxml2</pElem>
+            <pElem>/usr/include/luabind</pElem>
+            <pElem>/usr/include/osmpbf</pElem>
+          </incDir>
+        </ccTool>
+      </item>
+      <item path="routed.cpp" ex="false" tool="1" flavor2="8">
+        <ccTool flags="0">
+          <incDir>
+            <pElem>Include</pElem>
+            <pElem>/usr/include/lua5.2</pElem>
+            <pElem>/usr/include/libxml2</pElem>
+            <pElem>/usr/include/luabind</pElem>
+            <pElem>/usr/include/osmpbf</pElem>
+          </incDir>
+        </ccTool>
+      </item>
+      <item path="win/getopt.c" ex="false" tool="0" flavor2="2">
+      </item>
+    </conf>
+  </confs>
+</configurationDescriptor>

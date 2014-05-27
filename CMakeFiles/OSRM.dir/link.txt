@@ -1,0 +1,2 @@
+/usr/bin/ar cr libOSRM.a  CMakeFiles/OSRM.dir/Library/OSRM_impl.cpp.o CMakeFiles/OSRM.dir/Descriptors/DescriptionFactory.cpp.o CMakeFiles/OSRM.dir/DataStructures/SearchEngineData.cpp.o CMakeFiles/OSRM.dir/DataStructures/RouteParameters.cpp.o CMakeFiles/OSRM.dir/DataStructures/Coordinate.cpp.o CMakeFiles/OSRM.dir/Algorithms/PolylineCompressor.cpp.o CMakeFiles/OSRM.dir/Algorithms/DouglasPeucker.cpp.o CMakeFiles/OSRM.dir/Server/Http/Reply.cpp.o CMakeFiles/OSRM.dir/Util/GitDescription.cpp.o
+/usr/bin/ranlib libOSRM.a

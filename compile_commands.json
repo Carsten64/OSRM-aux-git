@@ -1,0 +1,152 @@
+[
+{
+  "directory": "/home/geopros/NetBeansProjects/Project-OSRM-develop",
+  "command": "/usr/bin/g++     -fprofile-arcs -ftest-coverage -fno-inline -Wall -pedantic -fPIC            -g3 -gdwarf-2 -I/home/geopros/NetBeansProjects/Project-OSRM-develop/Include -I/usr/include/lua5.2 -I/usr/include/libxml2 -I/usr/include/luabind -I/usr/include/osmpbf    -std=c++11 -o CMakeFiles/COORDLIB.dir/DataStructures/Coordinate.cpp.o -c /home/geopros/NetBeansProjects/Project-OSRM-develop/DataStructures/Coordinate.cpp",
+  "file": "/home/geopros/NetBeansProjects/Project-OSRM-develop/DataStructures/Coordinate.cpp"
+},
+{
+  "directory": "/home/geopros/NetBeansProjects/Project-OSRM-develop",
+  "command": "/usr/bin/g++     -fprofile-arcs -ftest-coverage -fno-inline -Wall -pedantic -fPIC            -g3 -gdwarf-2 -I/home/geopros/NetBeansProjects/Project-OSRM-develop/Include -I/usr/include/lua5.2 -I/usr/include/libxml2 -I/usr/include/luabind -I/usr/include/osmpbf    -std=c++11 -o CMakeFiles/GITDESCRIPTION.dir/Util/GitDescription.cpp.o -c /home/geopros/NetBeansProjects/Project-OSRM-develop/Util/GitDescription.cpp",
+  "file": "/home/geopros/NetBeansProjects/Project-OSRM-develop/Util/GitDescription.cpp"
+},
+{
+  "directory": "/home/geopros/NetBeansProjects/Project-OSRM-develop",
+  "command": "/usr/bin/g++     -fprofile-arcs -ftest-coverage -fno-inline -Wall -pedantic -fPIC            -g3 -gdwarf-2 -I/home/geopros/NetBeansProjects/Project-OSRM-develop/Include -I/usr/include/lua5.2 -I/usr/include/libxml2 -I/usr/include/luabind -I/usr/include/osmpbf    -std=c++11 -o CMakeFiles/OSRM.dir/Library/OSRM_impl.cpp.o -c /home/geopros/NetBeansProjects/Project-OSRM-develop/Library/OSRM_impl.cpp",
+  "file": "/home/geopros/NetBeansProjects/Project-OSRM-develop/Library/OSRM_impl.cpp"
+},
+{
+  "directory": "/home/geopros/NetBeansProjects/Project-OSRM-develop",
+  "command": "/usr/bin/g++     -fprofile-arcs -ftest-coverage -fno-inline -Wall -pedantic -fPIC            -g3 -gdwarf-2 -I/home/geopros/NetBeansProjects/Project-OSRM-develop/Include -I/usr/include/lua5.2 -I/usr/include/libxml2 -I/usr/include/luabind -I/usr/include/osmpbf    -std=c++11 -o CMakeFiles/OSRM.dir/Descriptors/DescriptionFactory.cpp.o -c /home/geopros/NetBeansProjects/Project-OSRM-develop/Descriptors/DescriptionFactory.cpp",
+  "file": "/home/geopros/NetBeansProjects/Project-OSRM-develop/Descriptors/DescriptionFactory.cpp"
+},
+{
+  "directory": "/home/geopros/NetBeansProjects/Project-OSRM-develop",
+  "command": "/usr/bin/g++     -fprofile-arcs -ftest-coverage -fno-inline -Wall -pedantic -fPIC            -g3 -gdwarf-2 -I/home/geopros/NetBeansProjects/Project-OSRM-develop/Include -I/usr/include/lua5.2 -I/usr/include/libxml2 -I/usr/include/luabind -I/usr/include/osmpbf    -std=c++11 -o CMakeFiles/OSRM.dir/DataStructures/SearchEngineData.cpp.o -c /home/geopros/NetBeansProjects/Project-OSRM-develop/DataStructures/SearchEngineData.cpp",
+  "file": "/home/geopros/NetBeansProjects/Project-OSRM-develop/DataStructures/SearchEngineData.cpp"
+},
+{
+  "directory": "/home/geopros/NetBeansProjects/Project-OSRM-develop",
+  "command": "/usr/bin/g++     -fprofile-arcs -ftest-coverage -fno-inline -Wall -pedantic -fPIC            -g3 -gdwarf-2 -I/home/geopros/NetBeansProjects/Project-OSRM-develop/Include -I/usr/include/lua5.2 -I/usr/include/libxml2 -I/usr/include/luabind -I/usr/include/osmpbf    -std=c++11 -o CMakeFiles/OSRM.dir/DataStructures/RouteParameters.cpp.o -c /home/geopros/NetBeansProjects/Project-OSRM-develop/DataStructures/RouteParameters.cpp",
+  "file": "/home/geopros/NetBeansProjects/Project-OSRM-develop/DataStructures/RouteParameters.cpp"
+},
+{
+  "directory": "/home/geopros/NetBeansProjects/Project-OSRM-develop",
+  "command": "/usr/bin/g++     -fprofile-arcs -ftest-coverage -fno-inline -Wall -pedantic -fPIC            -g3 -gdwarf-2 -I/home/geopros/NetBeansProjects/Project-OSRM-develop/Include -I/usr/include/lua5.2 -I/usr/include/libxml2 -I/usr/include/luabind -I/usr/include/osmpbf    -std=c++11 -o CMakeFiles/OSRM.dir/DataStructures/Coordinate.cpp.o -c /home/geopros/NetBeansProjects/Project-OSRM-develop/DataStructures/Coordinate.cpp",
+  "file": "/home/geopros/NetBeansProjects/Project-OSRM-develop/DataStructures/Coordinate.cpp"
+},
+{
+  "directory": "/home/geopros/NetBeansProjects/Project-OSRM-develop",
+  "command": "/usr/bin/g++     -fprofile-arcs -ftest-coverage -fno-inline -Wall -pedantic -fPIC            -g3 -gdwarf-2 -I/home/geopros/NetBeansProjects/Project-OSRM-develop/Include -I/usr/include/lua5.2 -I/usr/include/libxml2 -I/usr/include/luabind -I/usr/include/osmpbf    -std=c++11 -o CMakeFiles/OSRM.dir/Algorithms/PolylineCompressor.cpp.o -c /home/geopros/NetBeansProjects/Project-OSRM-develop/Algorithms/PolylineCompressor.cpp",
+  "file": "/home/geopros/NetBeansProjects/Project-OSRM-develop/Algorithms/PolylineCompressor.cpp"
+},
+{
+  "directory": "/home/geopros/NetBeansProjects/Project-OSRM-develop",
+  "command": "/usr/bin/g++     -fprofile-arcs -ftest-coverage -fno-inline -Wall -pedantic -fPIC            -g3 -gdwarf-2 -I/home/geopros/NetBeansProjects/Project-OSRM-develop/Include -I/usr/include/lua5.2 -I/usr/include/libxml2 -I/usr/include/luabind -I/usr/include/osmpbf    -std=c++11 -o CMakeFiles/OSRM.dir/Algorithms/DouglasPeucker.cpp.o -c /home/geopros/NetBeansProjects/Project-OSRM-develop/Algorithms/DouglasPeucker.cpp",
+  "file": "/home/geopros/NetBeansProjects/Project-OSRM-develop/Algorithms/DouglasPeucker.cpp"
+},
+{
+  "directory": "/home/geopros/NetBeansProjects/Project-OSRM-develop",
+  "command": "/usr/bin/g++     -fprofile-arcs -ftest-coverage -fno-inline -Wall -pedantic -fPIC            -g3 -gdwarf-2 -I/home/geopros/NetBeansProjects/Project-OSRM-develop/Include -I/usr/include/lua5.2 -I/usr/include/libxml2 -I/usr/include/luabind -I/usr/include/osmpbf    -std=c++11 -o CMakeFiles/OSRM.dir/Server/Http/Reply.cpp.o -c /home/geopros/NetBeansProjects/Project-OSRM-develop/Server/Http/Reply.cpp",
+  "file": "/home/geopros/NetBeansProjects/Project-OSRM-develop/Server/Http/Reply.cpp"
+},
+{
+  "directory": "/home/geopros/NetBeansProjects/Project-OSRM-develop",
+  "command": "/usr/bin/g++     -fprofile-arcs -ftest-coverage -fno-inline -Wall -pedantic -fPIC            -g3 -gdwarf-2 -I/home/geopros/NetBeansProjects/Project-OSRM-develop/Include -I/usr/include/lua5.2 -I/usr/include/libxml2 -I/usr/include/luabind -I/usr/include/osmpbf    -std=c++11 -o CMakeFiles/OSRM.dir/Util/GitDescription.cpp.o -c /home/geopros/NetBeansProjects/Project-OSRM-develop/Util/GitDescription.cpp",
+  "file": "/home/geopros/NetBeansProjects/Project-OSRM-develop/Util/GitDescription.cpp"
+},
+{
+  "directory": "/home/geopros/NetBeansProjects/Project-OSRM-develop",
+  "command": "/usr/bin/g++     -fprofile-arcs -ftest-coverage -fno-inline -Wall -pedantic -fPIC            -g3 -gdwarf-2 -I/home/geopros/NetBeansProjects/Project-OSRM-develop/Include -I/usr/include/lua5.2 -I/usr/include/libxml2 -I/usr/include/luabind -I/usr/include/osmpbf    -std=c++11 -o CMakeFiles/UUID.dir/Util/UUID.cpp.o -c /home/geopros/NetBeansProjects/Project-OSRM-develop/Util/UUID.cpp",
+  "file": "/home/geopros/NetBeansProjects/Project-OSRM-develop/Util/UUID.cpp"
+},
+{
+  "directory": "/home/geopros/NetBeansProjects/Project-OSRM-develop",
+  "command": "/usr/bin/g++     -fprofile-arcs -ftest-coverage -fno-inline -Wall -pedantic -fPIC            -g3 -gdwarf-2 -I/home/geopros/NetBeansProjects/Project-OSRM-develop/Include -I/usr/include/lua5.2 -I/usr/include/libxml2 -I/usr/include/luabind -I/usr/include/osmpbf    -std=c++11 -o CMakeFiles/osrm-datastore.dir/datastore.cpp.o -c /home/geopros/NetBeansProjects/Project-OSRM-develop/datastore.cpp",
+  "file": "/home/geopros/NetBeansProjects/Project-OSRM-develop/datastore.cpp"
+},
+{
+  "directory": "/home/geopros/NetBeansProjects/Project-OSRM-develop",
+  "command": "/usr/bin/g++     -fprofile-arcs -ftest-coverage -fno-inline -Wall -pedantic -fPIC            -g3 -gdwarf-2 -I/home/geopros/NetBeansProjects/Project-OSRM-develop/Include -I/usr/include/lua5.2 -I/usr/include/libxml2 -I/usr/include/luabind -I/usr/include/osmpbf    -std=c++11 -o CMakeFiles/osrm-extract.dir/extractor.cpp.o -c /home/geopros/NetBeansProjects/Project-OSRM-develop/extractor.cpp",
+  "file": "/home/geopros/NetBeansProjects/Project-OSRM-develop/extractor.cpp"
+},
+{
+  "directory": "/home/geopros/NetBeansProjects/Project-OSRM-develop",
+  "command": "/usr/bin/g++     -fprofile-arcs -ftest-coverage -fno-inline -Wall -pedantic -fPIC            -g3 -gdwarf-2 -I/home/geopros/NetBeansProjects/Project-OSRM-develop/Include -I/usr/include/lua5.2 -I/usr/include/libxml2 -I/usr/include/luabind -I/usr/include/osmpbf    -std=c++11 -o CMakeFiles/osrm-extract.dir/Extractor/ExtractionContainers.cpp.o -c /home/geopros/NetBeansProjects/Project-OSRM-develop/Extractor/ExtractionContainers.cpp",
+  "file": "/home/geopros/NetBeansProjects/Project-OSRM-develop/Extractor/ExtractionContainers.cpp"
+},
+{
+  "directory": "/home/geopros/NetBeansProjects/Project-OSRM-develop",
+  "command": "/usr/bin/g++     -fprofile-arcs -ftest-coverage -fno-inline -Wall -pedantic -fPIC            -g3 -gdwarf-2 -I/home/geopros/NetBeansProjects/Project-OSRM-develop/Include -I/usr/include/lua5.2 -I/usr/include/libxml2 -I/usr/include/luabind -I/usr/include/osmpbf    -std=c++11 -o CMakeFiles/osrm-extract.dir/Extractor/ScriptingEnvironment.cpp.o -c /home/geopros/NetBeansProjects/Project-OSRM-develop/Extractor/ScriptingEnvironment.cpp",
+  "file": "/home/geopros/NetBeansProjects/Project-OSRM-develop/Extractor/ScriptingEnvironment.cpp"
+},
+{
+  "directory": "/home/geopros/NetBeansProjects/Project-OSRM-develop",
+  "command": "/usr/bin/g++     -fprofile-arcs -ftest-coverage -fno-inline -Wall -pedantic -fPIC            -g3 -gdwarf-2 -I/home/geopros/NetBeansProjects/Project-OSRM-develop/Include -I/usr/include/lua5.2 -I/usr/include/libxml2 -I/usr/include/luabind -I/usr/include/osmpbf    -std=c++11 -o CMakeFiles/osrm-extract.dir/Extractor/XMLParser.cpp.o -c /home/geopros/NetBeansProjects/Project-OSRM-develop/Extractor/XMLParser.cpp",
+  "file": "/home/geopros/NetBeansProjects/Project-OSRM-develop/Extractor/XMLParser.cpp"
+},
+{
+  "directory": "/home/geopros/NetBeansProjects/Project-OSRM-develop",
+  "command": "/usr/bin/g++     -fprofile-arcs -ftest-coverage -fno-inline -Wall -pedantic -fPIC            -g3 -gdwarf-2 -I/home/geopros/NetBeansProjects/Project-OSRM-develop/Include -I/usr/include/lua5.2 -I/usr/include/libxml2 -I/usr/include/luabind -I/usr/include/osmpbf    -std=c++11 -o CMakeFiles/osrm-extract.dir/Extractor/BaseParser.cpp.o -c /home/geopros/NetBeansProjects/Project-OSRM-develop/Extractor/BaseParser.cpp",
+  "file": "/home/geopros/NetBeansProjects/Project-OSRM-develop/Extractor/BaseParser.cpp"
+},
+{
+  "directory": "/home/geopros/NetBeansProjects/Project-OSRM-develop",
+  "command": "/usr/bin/g++     -fprofile-arcs -ftest-coverage -fno-inline -Wall -pedantic -fPIC            -g3 -gdwarf-2 -I/home/geopros/NetBeansProjects/Project-OSRM-develop/Include -I/usr/include/lua5.2 -I/usr/include/libxml2 -I/usr/include/luabind -I/usr/include/osmpbf    -std=c++11 -o CMakeFiles/osrm-extract.dir/Extractor/ExtractorCallbacks.cpp.o -c /home/geopros/NetBeansProjects/Project-OSRM-develop/Extractor/ExtractorCallbacks.cpp",
+  "file": "/home/geopros/NetBeansProjects/Project-OSRM-develop/Extractor/ExtractorCallbacks.cpp"
+},
+{
+  "directory": "/home/geopros/NetBeansProjects/Project-OSRM-develop",
+  "command": "/usr/bin/g++     -fprofile-arcs -ftest-coverage -fno-inline -Wall -pedantic -fPIC            -g3 -gdwarf-2 -I/home/geopros/NetBeansProjects/Project-OSRM-develop/Include -I/usr/include/lua5.2 -I/usr/include/libxml2 -I/usr/include/luabind -I/usr/include/osmpbf    -std=c++11 -o CMakeFiles/osrm-extract.dir/Extractor/PBFParser.cpp.o -c /home/geopros/NetBeansProjects/Project-OSRM-develop/Extractor/PBFParser.cpp",
+  "file": "/home/geopros/NetBeansProjects/Project-OSRM-develop/Extractor/PBFParser.cpp"
+},
+{
+  "directory": "/home/geopros/NetBeansProjects/Project-OSRM-develop",
+  "command": "/usr/bin/g++     -fprofile-arcs -ftest-coverage -fno-inline -Wall -pedantic -fPIC            -g3 -gdwarf-2 -I/home/geopros/NetBeansProjects/Project-OSRM-develop/Include -I/usr/include/lua5.2 -I/usr/include/libxml2 -I/usr/include/luabind -I/usr/include/osmpbf    -std=c++11 -o CMakeFiles/osrm-prepare.dir/prepare.cpp.o -c /home/geopros/NetBeansProjects/Project-OSRM-develop/prepare.cpp",
+  "file": "/home/geopros/NetBeansProjects/Project-OSRM-develop/prepare.cpp"
+},
+{
+  "directory": "/home/geopros/NetBeansProjects/Project-OSRM-develop",
+  "command": "/usr/bin/g++     -fprofile-arcs -ftest-coverage -fno-inline -Wall -pedantic -fPIC            -g3 -gdwarf-2 -I/home/geopros/NetBeansProjects/Project-OSRM-develop/Include -I/usr/include/lua5.2 -I/usr/include/libxml2 -I/usr/include/luabind -I/usr/include/osmpbf    -std=c++11 -o CMakeFiles/osrm-prepare.dir/Contractor/EdgeBasedGraphFactory.cpp.o -c /home/geopros/NetBeansProjects/Project-OSRM-develop/Contractor/EdgeBasedGraphFactory.cpp",
+  "file": "/home/geopros/NetBeansProjects/Project-OSRM-develop/Contractor/EdgeBasedGraphFactory.cpp"
+},
+{
+  "directory": "/home/geopros/NetBeansProjects/Project-OSRM-develop",
+  "command": "/usr/bin/g++     -fprofile-arcs -ftest-coverage -fno-inline -Wall -pedantic -fPIC            -g3 -gdwarf-2 -I/home/geopros/NetBeansProjects/Project-OSRM-develop/Include -I/usr/include/lua5.2 -I/usr/include/libxml2 -I/usr/include/luabind -I/usr/include/osmpbf    -std=c++11 -o CMakeFiles/osrm-prepare.dir/Contractor/GeometryCompressor.cpp.o -c /home/geopros/NetBeansProjects/Project-OSRM-develop/Contractor/GeometryCompressor.cpp",
+  "file": "/home/geopros/NetBeansProjects/Project-OSRM-develop/Contractor/GeometryCompressor.cpp"
+},
+{
+  "directory": "/home/geopros/NetBeansProjects/Project-OSRM-develop",
+  "command": "/usr/bin/g++     -fprofile-arcs -ftest-coverage -fno-inline -Wall -pedantic -fPIC            -g3 -gdwarf-2 -I/home/geopros/NetBeansProjects/Project-OSRM-develop/Include -I/usr/include/lua5.2 -I/usr/include/libxml2 -I/usr/include/luabind -I/usr/include/osmpbf    -std=c++11 -o CMakeFiles/osrm-prepare.dir/Contractor/TemporaryStorage.cpp.o -c /home/geopros/NetBeansProjects/Project-OSRM-develop/Contractor/TemporaryStorage.cpp",
+  "file": "/home/geopros/NetBeansProjects/Project-OSRM-develop/Contractor/TemporaryStorage.cpp"
+},
+{
+  "directory": "/home/geopros/NetBeansProjects/Project-OSRM-develop",
+  "command": "/usr/bin/g++     -fprofile-arcs -ftest-coverage -fno-inline -Wall -pedantic -fPIC            -g3 -gdwarf-2 -I/home/geopros/NetBeansProjects/Project-OSRM-develop/Include -I/usr/include/lua5.2 -I/usr/include/libxml2 -I/usr/include/luabind -I/usr/include/osmpbf    -std=c++11 -o CMakeFiles/osrm-prepare.dir/DataStructures/HilbertValue.cpp.o -c /home/geopros/NetBeansProjects/Project-OSRM-develop/DataStructures/HilbertValue.cpp",
+  "file": "/home/geopros/NetBeansProjects/Project-OSRM-develop/DataStructures/HilbertValue.cpp"
+},
+{
+  "directory": "/home/geopros/NetBeansProjects/Project-OSRM-develop",
+  "command": "/usr/bin/g++     -fprofile-arcs -ftest-coverage -fno-inline -Wall -pedantic -fPIC            -g3 -gdwarf-2 -I/home/geopros/NetBeansProjects/Project-OSRM-develop/Include -I/usr/include/lua5.2 -I/usr/include/libxml2 -I/usr/include/luabind -I/usr/include/osmpbf    -std=c++11 -o CMakeFiles/osrm-prepare.dir/DataStructures/RestrictionMap.cpp.o -c /home/geopros/NetBeansProjects/Project-OSRM-develop/DataStructures/RestrictionMap.cpp",
+  "file": "/home/geopros/NetBeansProjects/Project-OSRM-develop/DataStructures/RestrictionMap.cpp"
+},
+{
+  "directory": "/home/geopros/NetBeansProjects/Project-OSRM-develop",
+  "command": "/usr/bin/g++     -fprofile-arcs -ftest-coverage -fno-inline -Wall -pedantic -fPIC            -g3 -gdwarf-2 -I/home/geopros/NetBeansProjects/Project-OSRM-develop/Include -I/usr/include/lua5.2 -I/usr/include/libxml2 -I/usr/include/luabind -I/usr/include/osmpbf    -std=c++11 -o CMakeFiles/osrm-routed.dir/routed.cpp.o -c /home/geopros/NetBeansProjects/Project-OSRM-develop/routed.cpp",
+  "file": "/home/geopros/NetBeansProjects/Project-OSRM-develop/routed.cpp"
+},
+{
+  "directory": "/home/geopros/NetBeansProjects/Project-OSRM-develop",
+  "command": "/usr/bin/g++     -fprofile-arcs -ftest-coverage -fno-inline -Wall -pedantic -fPIC            -g3 -gdwarf-2 -I/home/geopros/NetBeansProjects/Project-OSRM-develop/Include -I/usr/include/lua5.2 -I/usr/include/libxml2 -I/usr/include/luabind -I/usr/include/osmpbf    -std=c++11 -o CMakeFiles/osrm-routed.dir/Server/Connection.cpp.o -c /home/geopros/NetBeansProjects/Project-OSRM-develop/Server/Connection.cpp",
+  "file": "/home/geopros/NetBeansProjects/Project-OSRM-develop/Server/Connection.cpp"
+},
+{
+  "directory": "/home/geopros/NetBeansProjects/Project-OSRM-develop",
+  "command": "/usr/bin/g++     -fprofile-arcs -ftest-coverage -fno-inline -Wall -pedantic -fPIC            -g3 -gdwarf-2 -I/home/geopros/NetBeansProjects/Project-OSRM-develop/Include -I/usr/include/lua5.2 -I/usr/include/libxml2 -I/usr/include/luabind -I/usr/include/osmpbf    -std=c++11 -o CMakeFiles/osrm-routed.dir/Server/RequestParser.cpp.o -c /home/geopros/NetBeansProjects/Project-OSRM-develop/Server/RequestParser.cpp",
+  "file": "/home/geopros/NetBeansProjects/Project-OSRM-develop/Server/RequestParser.cpp"
+},
+{
+  "directory": "/home/geopros/NetBeansProjects/Project-OSRM-develop",
+  "command": "/usr/bin/g++     -fprofile-arcs -ftest-coverage -fno-inline -Wall -pedantic -fPIC            -g3 -gdwarf-2 -I/home/geopros/NetBeansProjects/Project-OSRM-develop/Include -I/usr/include/lua5.2 -I/usr/include/libxml2 -I/usr/include/luabind -I/usr/include/osmpbf    -std=c++11 -o CMakeFiles/osrm-routed.dir/Server/RequestHandler.cpp.o -c /home/geopros/NetBeansProjects/Project-OSRM-develop/Server/RequestHandler.cpp",
+  "file": "/home/geopros/NetBeansProjects/Project-OSRM-develop/Server/RequestHandler.cpp"
+}
+]

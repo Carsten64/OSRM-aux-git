@@ -1,0 +1,2 @@
+/usr/bin/ar cr libCOORDLIB.a  CMakeFiles/COORDLIB.dir/DataStructures/Coordinate.cpp.o
+/usr/bin/ranlib libCOORDLIB.a

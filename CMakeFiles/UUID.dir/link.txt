@@ -1,0 +1,2 @@
+/usr/bin/ar cr libUUID.a  CMakeFiles/UUID.dir/Util/UUID.cpp.o
+/usr/bin/ranlib libUUID.a

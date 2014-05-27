@@ -270,18 +270,31 @@ template <class DataFacadeT> class JSONDescriptor : public BaseDescriptor<DataFa
         // Segment information has following format:
         //["instruction id","streetname",length,position,time,"length","earth_direction",azimuth]
         unsigned necessary_segments_running_index = 1;
+        int count=0;
+        int maxLen= description_factory.path_description.size();
         round_about.leave_at_exit = 0;
         round_about.name_id = 0;
         std::string temp_dist, temp_length, temp_duration, temp_bearing, temp_instruction;
 
         // Fetch data from Factory and generate a string from it.
+        for (int i =0; i<description_factory.path_description.size();i++)
+        {
+            if (description_factory.path_description[i].necessary)
+            {
+                ++count;
+            }
+        
+        }
+
         for (const SegmentInformation &segment : description_factory.path_description)
         {
+            
             JSON::Array json_instruction_row;
             TurnInstruction current_instruction = segment.turn_instruction;
             entered_restricted_area_count += (current_instruction != segment.turn_instruction);
             if (TurnInstructionsClass::TurnIsNecessary(current_instruction))
             {
+                
                 if (TurnInstruction::EnterRoundAbout == current_instruction)
                 {
                     round_about.name_id = segment.name_id;
@@ -308,7 +321,13 @@ template <class DataFacadeT> class JSONDescriptor : public BaseDescriptor<DataFa
 
                     json_instruction_row.values.push_back(facade->GetEscapedNameForNameID(segment.name_id));
                     json_instruction_row.values.push_back(std::round(segment.length));
-                    json_instruction_row.values.push_back(necessary_segments_running_index);
+                    if(necessary_segments_running_index==1)
+                    {
+                        json_instruction_row.values.push_back(0);
+                    }
+                    else {
+                        json_instruction_row.values.push_back(necessary_segments_running_index);
+                    }
                     json_instruction_row.values.push_back(round(segment.duration / 10));
                     json_instruction_row.values.push_back(IntToString(segment.length)+"m");
                     int bearing_value = round(segment.bearing / 10.);
@@ -338,7 +357,7 @@ template <class DataFacadeT> class JSONDescriptor : public BaseDescriptor<DataFa
             json_last_instruction_row.values.push_back(temp_instruction);
             json_last_instruction_row.values.push_back("");
             json_last_instruction_row.values.push_back(0);
-            json_last_instruction_row.values.push_back(necessary_segments_running_index - 1);
+            json_last_instruction_row.values.push_back(necessary_segments_running_index - 2);
             json_last_instruction_row.values.push_back(0);
             json_last_instruction_row.values.push_back("0m");
             json_last_instruction_row.values.push_back(Azimuth::Get(0.0));

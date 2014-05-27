@@ -1,0 +1,339 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<configurationDescriptor version="94">
+  <logicalFolder name="root" displayName="root" projectFiles="true" kind="ROOT">
+    <df root="." name="0">
+      <df name="Algorithms">
+        <in>BFSComponentExplorer.h</in>
+        <in>DouglasPeucker.cpp</in>
+        <in>DouglasPeucker.h</in>
+        <in>ExtractRouteNames.h</in>
+        <in>IteratorBasedCRC32.h</in>
+        <in>ObjectToBase64.h</in>
+        <in>PolylineCompressor.cpp</in>
+        <in>PolylineCompressor.h</in>
+        <in>StronglyConnectedComponents.h</in>
+      </df>
+      <df name="build">
+      </df>
+      <df name="cmake">
+      </df>
+      <df name="CMakeFiles">
+        <df name="2.8.12.2">
+          <df name="CompilerIdC">
+            <in>CMakeCCompilerId.c</in>
+          </df>
+          <df name="CompilerIdCXX">
+            <in>CMakeCXXCompilerId.cpp</in>
+          </df>
+        </df>
+        <df name="CMakeTmp">
+        </df>
+        <df name="COORDLIB.dir">
+          <df name="DataStructures">
+          </df>
+        </df>
+        <df name="git-data">
+        </df>
+        <df name="GITDESCRIPTION.dir">
+          <df name="Util">
+          </df>
+        </df>
+        <df name="osrm-datastore.dir">
+        </df>
+        <df name="osrm-extract.dir">
+          <df name="Extractor">
+          </df>
+        </df>
+        <df name="osrm-prepare.dir">
+          <df name="Contractor">
+          </df>
+          <df name="DataStructures">
+          </df>
+        </df>
+        <df name="osrm-routed.dir">
+          <df name="Server">
+          </df>
+        </df>
+        <df name="OSRM.dir">
+          <df name="Algorithms">
+          </df>
+          <df name="DataStructures">
+          </df>
+          <df name="Descriptors">
+          </df>
+          <df name="Library">
+          </df>
+          <df name="Server">
+            <df name="Http">
+            </df>
+          </df>
+          <df name="Util">
+          </df>
+        </df>
+        <df name="UUID.dir">
+          <df name="Util">
+          </df>
+        </df>
+        <df name="UUIDConfigure.dir">
+        </df>
+      </df>
+      <df name="config">
+      </df>
+      <df name="Contractor">
+        <in>Contractor.h</in>
+        <in>EdgeBasedGraphFactory.cpp</in>
+        <in>EdgeBasedGraphFactory.h</in>
+        <in>GeometryCompressor.cpp</in>
+        <in>GeometryCompressor.h</in>
+        <in>TemporaryStorage.cpp</in>
+        <in>TemporaryStorage.h</in>
+      </df>
+      <df name="DataStructures">
+        <in>BinaryHeap.h</in>
+        <in>ConcurrentQueue.h</in>
+        <in>Coordinate.cpp</in>
+        <in>DeallocatingVector.h</in>
+        <in>DynamicGraph.h</in>
+        <in>EdgeBasedNode.h</in>
+        <in>HashTable.h</in>
+        <in>HilbertValue.cpp</in>
+        <in>HilbertValue.h</in>
+        <in>ImportEdge.h</in>
+        <in>ImportNode.h</in>
+        <in>InputReaderFactory.h</in>
+        <in>JSONContainer.h</in>
+        <in>LRUCache.h</in>
+        <in>NodeBasedGraph.h</in>
+        <in>OriginalEdgeData.h</in>
+        <in>Percent.h</in>
+        <in>PhantomNodes.h</in>
+        <in>QueryEdge.h</in>
+        <in>QueryNode.h</in>
+        <in>RawRouteData.h</in>
+        <in>Restriction.h</in>
+        <in>RestrictionMap.cpp</in>
+        <in>RestrictionMap.h</in>
+        <in>RouteParameters.cpp</in>
+        <in>SearchEngine.h</in>
+        <in>SearchEngineData.cpp</in>
+        <in>SearchEngineData.h</in>
+        <in>SegmentInformation.h</in>
+        <in>SharedMemoryFactory.h</in>
+        <in>SharedMemoryVectorWrapper.h</in>
+        <in>StaticGraph.h</in>
+        <in>StaticKDTree.h</in>
+        <in>StaticRTree.h</in>
+        <in>TurnInstructions.h</in>
+        <in>XORFastHash.h</in>
+        <in>XORFastHashStorage.h</in>
+      </df>
+      <df name="Descriptors">
+        <in>BaseDescriptor.h</in>
+        <in>DescriptionFactory.cpp</in>
+        <in>DescriptionFactory.h</in>
+        <in>GPXDescriptor.h</in>
+        <in>JSONDescriptor.h</in>
+      </df>
+      <df name="Docs">
+      </df>
+      <df name="Extractor">
+        <in>BaseParser.cpp</in>
+        <in>BaseParser.h</in>
+        <in>ExtractionContainers.cpp</in>
+        <in>ExtractionContainers.h</in>
+        <in>ExtractionHelperFunctions.h</in>
+        <in>ExtractionWay.h</in>
+        <in>ExtractorCallbacks.cpp</in>
+        <in>ExtractorCallbacks.h</in>
+        <in>ExtractorStructs.h</in>
+        <in>InternalExtractorEdge.h</in>
+        <in>PBFParser.cpp</in>
+        <in>PBFParser.h</in>
+        <in>ScriptingEnvironment.cpp</in>
+        <in>ScriptingEnvironment.h</in>
+        <in>XMLParser.cpp</in>
+        <in>XMLParser.h</in>
+      </df>
+      <df name="features">
+        <df name="bicycle">
+        </df>
+        <df name="car">
+        </df>
+        <df name="foot">
+        </df>
+        <df name="locate">
+        </df>
+        <df name="nearest">
+        </df>
+        <df name="options">
+          <df name="extract">
+          </df>
+          <df name="prepare">
+          </df>
+          <df name="routed">
+          </df>
+        </df>
+        <df name="step_definitions">
+        </df>
+        <df name="stress">
+        </df>
+        <df name="support">
+        </df>
+        <df name="testbot">
+        </df>
+        <df name="timestamp">
+        </df>
+      </df>
+      <df name="Include">
+        <df name="osrm">
+          <in>Coordinate.h</in>
+          <in>Header.h</in>
+          <in>Reply.h</in>
+          <in>RouteParameters.h</in>
+          <in>ServerPaths.h</in>
+        </df>
+      </df>
+      <df name="Library">
+        <in>OSRM.h</in>
+        <in>OSRM_impl.cpp</in>
+        <in>OSRM_impl.h</in>
+      </df>
+      <df name="Plugins">
+        <in>BasePlugin.h</in>
+        <in>DistanceTablePlugin.h</in>
+        <in>HelloWorldPlugin.h</in>
+        <in>LocatePlugin.h</in>
+        <in>NearestPlugin.h</in>
+        <in>TimestampPlugin.h</in>
+        <in>ViaRoutePlugin.h</in>
+      </df>
+      <df name="profiles">
+        <df name="examples">
+        </df>
+        <df name="lib">
+        </df>
+      </df>
+      <df name="RoutingAlgorithms">
+        <in>AlternativePathRouting.h</in>
+        <in>BasicRoutingInterface.h</in>
+        <in>ManyToManyRouting.h</in>
+        <in>ShortestPathRouting.h</in>
+      </df>
+      <df name="Server">
+        <df name="DataStructures">
+          <in>BaseDataFacade.h</in>
+          <in>InternalDataFacade.h</in>
+          <in>SharedBarriers.h</in>
+          <in>SharedDataFacade.h</in>
+          <in>SharedDataType.h</in>
+        </df>
+        <df name="Http">
+          <in>CompressionType.h</in>
+          <in>Reply.cpp</in>
+          <in>Request.h</in>
+        </df>
+        <in>APIGrammar.h</in>
+        <in>Connection.cpp</in>
+        <in>Connection.h</in>
+        <in>RequestHandler.cpp</in>
+        <in>RequestHandler.h</in>
+        <in>RequestParser.cpp</in>
+        <in>RequestParser.h</in>
+        <in>Server.h</in>
+        <in>ServerFactory.h</in>
+      </df>
+      <df name="test">
+      </df>
+      <df name="Tools">
+        <in>components.cpp</in>
+        <in>io-benchmark.cpp</in>
+        <in>simpleclient.cpp</in>
+        <in>unlock_all_mutexes.cpp</in>
+      </df>
+      <df name="Util">
+        <in>Azimuth.h</in>
+        <in>BoostFileSystemFix.h</in>
+        <in>ComputeAngle.h</in>
+        <in>ContainerUtils.h</in>
+        <in>DataStoreOptions.h</in>
+        <in>GitDescription.cpp</in>
+        <in>GitDescription.h</in>
+        <in>GraphLoader.h</in>
+        <in>IniFileUtil.h</in>
+        <in>LuaUtil.h</in>
+        <in>MachineInfo.h</in>
+        <in>MercatorUtil.h</in>
+        <in>OSRMException.h</in>
+        <in>ProgramOptions.h</in>
+        <in>SimpleLogger.h</in>
+        <in>StdHashExtensions.h</in>
+        <in>StringUtil.h</in>
+        <in>TimingUtil.h</in>
+        <in>TrigonometryTables.h</in>
+        <in>UUID.cpp</in>
+        <in>UUID.h</in>
+      </df>
+      <df name="win">
+        <in>getopt.c</in>
+        <in>getopt.h</in>
+        <in>unistd.h</in>
+      </df>
+      <in>datastore.cpp</in>
+      <in>extractor.cpp</in>
+      <in>prepare.cpp</in>
+      <in>routed.cpp</in>
+      <in>typedefs.h</in>
+    </df>
+  </logicalFolder>
+  <projectmakefile>Makefile</projectmakefile>
+  <confs>
+    <conf name="Default" type="0">
+      <toolsSet>
+        <developmentServer>localhost</developmentServer>
+        <platform>2</platform>
+      </toolsSet>
+      <compile>
+        <compiledirpicklist>
+          <compiledirpicklistitem>.</compiledirpicklistitem>
+          <compiledirpicklistitem>${AUTO_FOLDER}</compiledirpicklistitem>
+        </compiledirpicklist>
+        <compiledir>${AUTO_FOLDER}</compiledir>
+        <compilecommandpicklist>
+          <compilecommandpicklistitem>${MAKE} ${ITEM_NAME}.o</compilecommandpicklistitem>
+          <compilecommandpicklistitem>${AUTO_COMPILE}</compilecommandpicklistitem>
+        </compilecommandpicklist>
+        <compilecommand>${AUTO_COMPILE}</compilecommand>
+      </compile>
+      <dbx_gdbdebugger version="1">
+        <gdb_pathmaps>
+        </gdb_pathmaps>
+        <gdb_interceptlist>
+          <gdbinterceptoptions gdb_all="false" gdb_unhandled="true" gdb_unexpected="true"/>
+        </gdb_interceptlist>
+        <gdb_signals>
+        </gdb_signals>
+        <gdb_options>
+          <DebugOptions>
+          </DebugOptions>
+        </gdb_options>
+        <gdb_buildfirst gdb_buildfirst_overriden="false" gdb_buildfirst_old="false"/>
+      </dbx_gdbdebugger>
+      <nativedebugger version="1">
+        <engine>gdb</engine>
+      </nativedebugger>
+      <runprofile version="9">
+        <runcommandpicklist>
+          <runcommandpicklistitem>"${OUTPUT_PATH}"</runcommandpicklistitem>
+          <runcommandpicklistitem>"${OUTPUT_PATH}" ../../OSMdata/colombia-latest.osrm</runcommandpicklistitem>
+        </runcommandpicklist>
+        <runcommand>"${OUTPUT_PATH}" ../../OSMdata/colombia-latest.osrm</runcommand>
+        <rundir>.</rundir>
+        <buildfirst>false</buildfirst>
+        <terminal-type>0</terminal-type>
+        <remove-instrumentation>0</remove-instrumentation>
+        <environment>
+        </environment>
+      </runprofile>
+    </conf>
+  </confs>
+</configurationDescriptor>
